@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "프로젝트"
-tags: tag3
+title: "목표와 철학"
+tags: tag4
 ---
 
 ## Lorem Ipsum
