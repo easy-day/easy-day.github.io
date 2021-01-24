@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "목표와 철학"
+title: ""
 tags: tag2
 ---
 
