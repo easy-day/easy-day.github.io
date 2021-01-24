@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lorem Ipsum"
+title: "프로젝트"
 tags: tag3
 ---
 
