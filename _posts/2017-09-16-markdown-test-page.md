@@ -1,1 +1,9 @@
-레게노 블로그 관리가 이렇게 어렵습니다.
+---
+layout: default
+title: "목표와 철학"
+tags: tag2
+---
+
+## Lorem Ipsum
+
+test
