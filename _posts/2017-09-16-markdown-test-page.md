@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "프로젝트"
-tags: tag2
+tags: tag3
 ---
 
 ## Lorem Ipsum
