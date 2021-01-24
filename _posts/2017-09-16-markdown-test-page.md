@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "프"
+title: "프로젝트"
 tags: tag2
 ---
 
