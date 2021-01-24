@@ -4,7 +4,7 @@ title: me
 ---
 
 # 박지훈 ?
-(./_post/jihun.png.jpg)
+![ex_jihun](./_posts/jihun.png.jpg)
 
 ## 👋 안녕하세요. 취약점 분석 공부를 하고 있는 박지훈 입니다.
 
