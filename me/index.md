@@ -4,7 +4,7 @@ title: me
 ---
 
 # 박지훈
-![jihun](https://user-images.githubusercontent.com/53769866/105623655-b154e600-5e5e-11eb-8ba6-1b8bd6b232bf.png)
+![jihun](https://user-images.githubusercontent.com/53769866/105623655-b154e600-5e5e-11eb-8ba6-1b8bd6b232bf.png){: width="80%" height="80%"}
 
 ## 👋 안녕하세요. 취약점 분석 공부를 하고 있는 박지훈 입니다.
 
