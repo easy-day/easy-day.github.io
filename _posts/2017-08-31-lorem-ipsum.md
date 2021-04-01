@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "목표와 철학"
-tags: 제목변경4
+tags: tag4
 ---
 
 ## Lorem Ipsum
