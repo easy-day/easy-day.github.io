@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "프로젝트"
-tags: 
+tags: 목표
 ---
 
 ## Lorem Ipsum
